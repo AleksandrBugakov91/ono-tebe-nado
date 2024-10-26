@@ -12,6 +12,8 @@ main {
  }
 
 .header__menu {
+    display: flex;
+    flex-direction: row;
     padding: 44px 36px 39px 27px;
  }
 
@@ -51,7 +53,7 @@ main {
     display: flex;
     flex-direction: column;
     text-wrap: nowrap;
-    padding: 5px 62px 2px 184px;
+    padding: 9px 62px 0 0;
     line-height: 24px;
     font-style: normal;
 }
