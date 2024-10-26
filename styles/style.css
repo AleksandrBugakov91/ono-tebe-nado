@@ -36,8 +36,15 @@ main {
 
 .header__logo {
     display: block;
-    width: 140px;
-    height: 105px;
+    width: 148px;
+    height: 110px;
+}
+
+.header__logo-image {
+    width: 138px;
+    height: 109px;
+    padding-left: 6px;
+    padding-top: 2px;
 }
 
 .address {
