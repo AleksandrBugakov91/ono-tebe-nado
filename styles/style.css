@@ -52,7 +52,6 @@ main {
 .address {
     display: flex;
     flex-direction: column;
-    text-wrap: nowrap;
     padding: 9px 62px 0 0;
     line-height: 24px;
     font-style: normal;
@@ -60,6 +59,7 @@ main {
 
 .header__address {
     font-size: 18px;
+    text-wrap: nowrap;
  }
 
 .address__tel {
