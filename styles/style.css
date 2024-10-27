@@ -8,18 +8,18 @@ main {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     align-items: center;
+    width: 1052px;
     padding: 92px 24px 96px 24px;
  }
 
 .header__menu {
-    display: flex;
-    flex-direction: row;
     padding: 44px 36px 39px 27px;
  }
 
 .header__links-list {
     display: flex;
     text-wrap: nowrap;
+    width: 392px;
     gap: 29px;
     font-size: 18px;
  }
@@ -43,16 +43,13 @@ main {
 }
 
 .header__logo-image {
-    width: 138px;
-    height: 109px;
-    padding-left: 6px;
-    padding-top: 3px;
+    width: 100%;
+    padding: 5px 9px 0 0;
 }
 
 .address {
-    display: flex;
-    flex-direction: column;
-    padding: 9px 62px 0 0;
+    display: block;
+    padding: 7px 14px 0 0;
     line-height: 24px;
     font-style: normal;
 }
