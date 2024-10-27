@@ -9,7 +9,7 @@ main {
     grid-template-columns: 1fr 2fr 1fr;
     align-items: center;
     width: 1052px;
-    padding: 81px 24px 92px 24px;
+    padding: 81px 24px 83px 24px;
  }
 
 .header__menu {
@@ -63,7 +63,7 @@ main {
 
 .header__address {
     padding: 5px 0 0 24px;
-    width: 240px; 
+    width: 240px;
 }
 
 .cover {
@@ -227,7 +227,6 @@ main {
     text-decoration-skip-ink: none;
     font-size: 22px;
     z-index: 1;
-    text-transform: uppercase;
  }
 
 .card__text {
@@ -237,7 +236,7 @@ main {
  }
 
 .card_type_book {
-    background: url(../images/card-lot-02.jpg); 
+    background: url(../images/card-lot-02.jpg);
  }
 
 .card_type_picture {
@@ -310,7 +309,7 @@ main {
 }
 
 .fooetr__adress {
-    text-align: left;   
+    text-align: left;
 }
 
 .footer__menu {
