@@ -13,7 +13,7 @@ main {
  }
 
 .header__menu {
-    padding: 44px 36px 39px 27px;
+    padding: 45px 35px 39px 26px;
  }
 
 .header__links-list {
@@ -49,14 +49,16 @@ main {
 
 .address {
     display: block;
-    padding: 7px 14px 0 0;
+    padding: 10px 0 0 24px;
+    font-size: 18px;
     line-height: 24px;
     font-style: normal;
+    width: 240px;
 }
 
 .header__address {
-    font-size: 18px;
-    text-wrap: nowrap;
+    
+    
  }
 
 .address__tel {
