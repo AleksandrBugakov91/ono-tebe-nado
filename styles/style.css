@@ -9,11 +9,11 @@ main {
     grid-template-columns: 1fr 2fr 1fr;
     align-items: center;
     width: 1052px;
-    padding: 81px 24px 83px 24px;
+    padding: 92px 24px 91px 24px;
  }
 
 .header__menu {
-    padding: 45px 35px 39px 26px;
+    padding: 44px 35px 45px 26px;
  }
 
 .header__links-list {
@@ -62,7 +62,7 @@ main {
 }
 
 .header__address {
-    padding: 5px 0 0 24px;
+    padding: 0 0 0 23px;
     width: 240px;
 }
 
@@ -92,7 +92,7 @@ main {
     position: relative;
     width: 1000px;
     margin: 0px 50px 0;
-    padding-top: 165px;
+    padding-top: 163px;
     color: #FFFFFF;
     font-size: 100px;
     max-height: 100%;
