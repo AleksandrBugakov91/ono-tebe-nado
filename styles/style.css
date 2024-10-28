@@ -93,7 +93,7 @@ main {
     position: relative;
     width: 1000px;
     margin: 0px 50px 0;
-    padding-top: 163px;
+    padding-top: 165px;
     color: #FFFFFF;
     font-size: 100px;
     max-height: 100%;
@@ -174,7 +174,7 @@ main {
 .lots {
     display: grid;
     width: 1052px;
-    padding: 178px 24px 146px 24px;
+    padding: 176px 24px 146px 24px;
 }
 
 .lots__heading {
