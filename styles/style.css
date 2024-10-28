@@ -9,11 +9,11 @@ main {
     grid-template-columns: 1fr 2fr 1fr;
     align-items: center;
     width: 1052px;
-    padding: 92px 24px 91px 24px;
+    padding: 92px 24px 96px 24px;
  }
 
 .header__menu {
-    padding: 44px 35px 45px 26px;
+    padding: 0px 35px 0px 26px;
  }
 
 .header__links-list {
