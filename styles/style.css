@@ -146,7 +146,7 @@ main {
     display: flex;
     position: relative;
     color: #FFFFFF;
-    padding: 137px 50px 50px 78px;
+    padding: 135px 50px 50px 78px;
  }
 
 .cover__description-text {
@@ -175,7 +175,7 @@ main {
 .lots {
     display: grid;
     width: 1052px;
-    padding: 176px 24px 146px 24px;
+    padding: 170px 24px 146px 24px;
 }
 
 .lots__heading {
