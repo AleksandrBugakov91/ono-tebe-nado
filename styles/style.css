@@ -175,7 +175,7 @@ main {
 .lots {
     display: grid;
     width: 1052px;
-    padding: 170px 24px 146px 24px;
+    padding: 168px 24px 146px 24px;
 }
 
 .lots__heading {
