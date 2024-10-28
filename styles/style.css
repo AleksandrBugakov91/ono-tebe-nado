@@ -76,7 +76,7 @@ main {
     background-position: center;
     background-size: cover;
     width: 1100px;
-    min-height: 753px;
+    min-height: 749px;
 }
 
 .overlay {
@@ -146,12 +146,12 @@ main {
     display: flex;
     position: relative;
     color: #FFFFFF;
-    padding: 135px 50px 50px 78px;
+    padding: 133px 50px 50px 78px;
  }
 
 .cover__description-text {
     font-size: 22px;
-    word-spacing: 19px;
+    word-spacing: 18px;
     text-wrap: nowrap;
     padding: 12px 75px 0 0;
     text-transform: uppercase;
@@ -160,12 +160,12 @@ main {
 .bet-button {
     color: #FFFFFF;
     width: 256px;
-    padding: 10px 0 10px;
+    padding: 11px 0 11px;
     text-align: center;
     border: 1px solid;
     border-color: #FFFFFF;
     background-color: transparent;
-    line-height: 26px;
+    line-height: 25px;
     font-size: 22px;
     text-transform: uppercase;
     cursor: pointer;
@@ -175,7 +175,7 @@ main {
 .lots {
     display: grid;
     width: 1052px;
-    padding: 168px 24px 146px 24px;
+    padding: 176px 24px 146px 24px;
 }
 
 .lots__heading {
