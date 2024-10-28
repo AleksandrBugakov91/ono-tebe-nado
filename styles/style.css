@@ -44,11 +44,12 @@ main {
 .header__logo {
     display: block;
     width: 148px;
-    height: 110px;
+    height: 105px;
 }
 
 .header__logo-image {
     width: 100%;
+    height: 100%;
 }
 
 .address {
