@@ -19,7 +19,7 @@ main {
 .header__links-list {
     display: flex;
     text-wrap: nowrap;
-    width: 392px;
+    width: 393px;
     gap: 29px;
     font-size: 18px;
  }
@@ -152,6 +152,7 @@ main {
 .cover__description-text {
     font-size: 22px;
     word-spacing: 19px;
+    text-wrap: nowrap;
     padding: 12px 75px 0 0;
     text-transform: uppercase;
 }
